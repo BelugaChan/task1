@@ -42,9 +42,6 @@
 
         public static void GeometryProgr()
         {
-            
-
-
             Console.WriteLine("Welcome to the Brain Games!");
             string name = string.Empty;
             Console.Write("May I have your name? ");
