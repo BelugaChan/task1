@@ -1,0 +1,27 @@
+version: "2"
+plugins:
+  checkstyle:
+    enabled: true
+  fixme:
+    enabled: true
+  duplication:
+    enabled: true
+  structure:
+    enabled: true
+  eslint:
+    enabled: true
+  rubocop:
+    enabled: true
+  scss-lint:
+    enabled: true
+  brakeman:
+    enabled: true
+  stylelint:
+    enabled: true
+  markdownlint:
+    enabled: true
+  shellcheck:
+    enabled: true
+  csharp:
+    enabled: true
+    channel: "stable"
